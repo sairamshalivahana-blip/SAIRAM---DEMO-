@@ -1,6 +1,7 @@
 # SAIRAM---DEMO-
 This is my first git repository .
 <br>
-authorized by - Madharam Sairam..
+authorized by - MADARA SAI. 
 <br>
-'GET READY'..
+"GET READY"
+
